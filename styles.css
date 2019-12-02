@@ -1,0 +1,126 @@
+h1,h2,h3,p {
+    margin: 0;
+}
+h1 {
+  color: 1d4d4f;
+  font-size: 50px; 
+  font-family: fantasy; 
+  background-color: e5dfdf;
+  padding: 10px;
+  text-align: center;
+}
+
+h2 {
+color: 1d4d4f;
+  font-size: 30px; 
+  font-family: fantasy; 
+  background-color: e5dfdf;
+  padding: 5px;
+  text-align: center;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color:f8b195;
+    text-align: center;
+    font-size: 25;
+    font-family: sans-serif;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 25px;
+}
+
+#current {
+    color: 003f5c;
+}
+#Hawaii {
+    color: bc5090;
+}
+#Southwest {
+    color: ff6361;
+}
+#France {
+    color: 58508d;
+}
+#China {
+    color: c72c41;
+}
+
+#franceheading {
+    text-align: center;
+    font-size: 55px;
+    font-family: cursive;;
+    color: 445c3c;
+    background-color: d7c79e;
+    padding: 10px;
+}
+#chinaheading {
+    text-align: center;
+    font-size: 45px;
+    font-family: monospace;;
+    color: 3f4d71;
+    background-color: d7c79e;
+    padding: 10px;
+}
+#hawaiiheading {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+    color: bc4873;
+    background-color: d7c79e;
+    padding: 10px;
+}
+#southwestheading {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
+    color: da2d2d;
+    background-color: d7c79e;
+    padding: 10px;
+}
+.traveled h3, .plans h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: unset;
+    color: 293a80;
+    background-color: d7c79e;
+    padding: 10px;
+}
+
+.traveled ul {
+    text-align: center;
+    list-style-type: none;
+}
+.traveled li {
+    color: 1f6650;
+    font-size: 30px;
+    font-family: initial;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.plans ul {
+    text-align: center;
+    list-style-type: none;
+}
+.plans li {
+    color: 1f6650;
+    font-size: 30px;
+    font-family: initial;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+main {
+    background-color:fff4e4 ;
+}
+
+p {
+    color: 1f6650;
+    font-size: 30px;
+    font-family: initial;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
