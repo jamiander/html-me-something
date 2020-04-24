@@ -4,6 +4,6 @@ Website highlighting some of my travel adventures.
 
 ## Technologies
 
-html
-javascript
+html  
+javascript  
 css
